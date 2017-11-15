@@ -1,4 +1,4 @@
-# travel
+# 여행지
 
 #부산
 http://blog.naver.com/gasinae00/221115059325
